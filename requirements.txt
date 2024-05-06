@@ -72,7 +72,7 @@ txaio==23.1.1
 typing_extensions==4.8.0
 tzdata==2023.3
 urllib3==2.1.0
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 whitenoise==6.6.0
 wrapt==1.14.1
 zope.interface==6.1
